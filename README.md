@@ -53,7 +53,6 @@ All endpoints use JSON request and response bodies.
 
 ```bash
 git clone https://github.com/veyra34/notes-api-backend.git
-cd Notes
 ```
 
 2. Update `src/main/resources/application.properties` with your PostgreSQL settings:
